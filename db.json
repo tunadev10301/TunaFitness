@@ -1,0 +1,45 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Dogn Van",
+      "lastName": "Tuan",
+      "email": "vantuan@gmail.com",
+      "mobile": "89324873",
+      "weight": 65,
+      "height": 180,
+      "bmi": 0.002006172839506173,
+      "bmiResult": "Gầy",
+      "gender": "Nam",
+      "requireTrainer": "Có",
+      "package": "Tháng",
+      "important": [
+        "Hệ thống tuần hoàn khỏe mạnh",
+        "Cân đối"
+      ],
+      "haveGymBefore": "Chưa",
+      "enquiryDate": "2023-12-26T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Nguyễn Đăng ",
+      "lastName": "Phong",
+      "email": "shjkdfsd",
+      "mobile": "90324273",
+      "weight": 65,
+      "height": 1.8,
+      "bmi": 20.061728395061728,
+      "bmiResult": "Bình thường",
+      "gender": "Nam",
+      "requireTrainer": "Không",
+      "package": "Quý",
+      "important": [
+        "Tăng cơ",
+        "Hệ thống tuần hoàn khỏe mạnh",
+        "Cân đối"
+      ],
+      "haveGymBefore": "Chưa",
+      "enquiryDate": "2023-12-27T17:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
